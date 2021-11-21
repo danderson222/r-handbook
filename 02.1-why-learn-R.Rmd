@@ -1,0 +1,49 @@
+# Why Learn R
+
+As mentioned in Chapter 2, R is a very dynamic open-source programming language that began with a statistics-focused and has since evolved to provide users with a myriad of options. While the benefit of R's growth is enormous, it has also been hard to navigate what you can do with the programming language. In this chapter, before you jump into learning the different functions, components and tricks of the language, it is first worth better understanding **why you should learn R!**
+
+
+## Navigating the World of Data Science
+
+### Machine Learning/ AI
+
+### Data Engineering
+
+### Business Analytics
+
+### People Analytics
+
+### Shiny & Front-End Applications
+
+## Accelerate Your Career As A...
+
+### ...Data Scientist
+
+### ...Financial Quant
+
+### ...Business Intelligence Analyst
+
+### ...Consultant
+
+### ...Freelancer
+
+## Geospatial Analysis
+
+## Generative Art
+
+## Financial Models
+
+### 
+
+## Social Sciences/ Academia
+
+## Sports Betting & Modelling
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
